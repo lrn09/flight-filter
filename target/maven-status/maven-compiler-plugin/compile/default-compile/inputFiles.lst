@@ -1,0 +1,10 @@
+C:\Users\lrn\IdeaProjects\FlightFilter\src\main\java\Services\FlightFilterService.java
+C:\Users\lrn\IdeaProjects\FlightFilter\src\main\java\filters\Impl\DepartingInPast.java
+C:\Users\lrn\IdeaProjects\FlightFilter\src\main\java\filters\FlightCheckStrategy.java
+C:\Users\lrn\IdeaProjects\FlightFilter\src\main\java\filters\Impl\DepartsBeforeArrives.java
+C:\Users\lrn\IdeaProjects\FlightFilter\src\main\java\filters\Impl\GeneralCheck.java
+C:\Users\lrn\IdeaProjects\FlightFilter\src\main\java\flights\Segment.java
+C:\Users\lrn\IdeaProjects\FlightFilter\src\main\java\flights\Flight.java
+C:\Users\lrn\IdeaProjects\FlightFilter\src\main\java\Main.java
+C:\Users\lrn\IdeaProjects\FlightFilter\src\main\java\flights\FlightBuilder.java
+C:\Users\lrn\IdeaProjects\FlightFilter\src\main\java\filters\Impl\MoreThanTwoHoursGroundTime.java

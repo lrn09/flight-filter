@@ -1,0 +1,10 @@
+Services\FlightFilterService.class
+Main.class
+filters\Impl\DepartsBeforeArrives.class
+flights\FlightBuilder.class
+filters\Impl\DepartingInPast.class
+filters\Impl\GeneralCheck.class
+flights\Flight.class
+flights\Segment.class
+filters\Impl\MoreThanTwoHoursGroundTime.class
+filters\FlightCheckStrategy.class
